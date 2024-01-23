@@ -1,4 +1,4 @@
-# lowlevelneuralnetwork
+# Single Layer Perceptron Neural Network
 Neural networks are made up of layers of nodes which are interconnected. These nodes are also called neurons or artificial neurons. The building block of a neural network is a perceptron. It is a basic model of a biological neuron. Below is an example of a single layer perceptron neural nework.
 
 ## 1. Input Layer
