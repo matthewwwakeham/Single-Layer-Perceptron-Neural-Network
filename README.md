@@ -33,21 +33,21 @@ Neural networks are made up of layers of nodes which are interconnected. These n
 
 ## 5. Python Code
 
-         def perceptron(input_features, weights, threshold):
+      def perceptron(input_features, weights, threshold):
 
-             z = sum(x * w for x, w in zip(input_features, weights))
+            z = sum(x * w for x, w in zip(input_features, weights))
 
-             output = 1 if z >= threshold else 0
+            output = 1 if z >= threshold else 0
 
-             return output
+            return output
 
-         input_features = [0.5, 0.7]
-         weights = [0.2, 0.8]
-         threshold = 0.5
+      input_features = [0.5, 0.7]
+      weights = [0.2, 0.8]
+      threshold = 0.5
 
-         output = perceptron(input_features, weights, threshold)
+      output = perceptron(input_features, weights, threshold)
 
-         print("Perceptron Output:", output)
+      print("Perceptron Output:", output)
 
 ## 6. Output
 
