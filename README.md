@@ -51,6 +51,5 @@ Neural networks are made up of layers of nodes which are interconnected. These n
 
 ## 6. Output
 
-   ```
       Perceptron Output: 1
-   ```
+   
