@@ -55,4 +55,4 @@ Single layer perceptron:
 
 6. Output
 
-   Perceptron Output: 1
+   ```Perceptron Output: 1```
